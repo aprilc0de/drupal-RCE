@@ -34,7 +34,7 @@ input[type=submit] {
 // coded by UstadCage_48
 // maap jika codenya acak acakan dan banyak code yg tak berguna
 // res7ock crew - 
-// cek alur di tools zerobyte.id
+// alur di tools zerobyte.id
 error_reporting(0);
 function curl($url){
 	$ch = curl_init();
